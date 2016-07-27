@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:Name;datatype:string" />
+	<infoitem key="UD_Profiles" value="name:Name;datatype:string" />
+	<infoitem key="UD_Food" value="name:Food_ID;datatype:int,name:Food_Name;datatype:string,name:Food_Image;datatype:string,name:Description;datatype:string,name:Price;datatype:real" />
+</info>

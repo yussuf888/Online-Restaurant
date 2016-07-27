@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_feedback" value="name:feedback_ID;datatype:int,name:feedback_Name;datatype:string,name:feedback;datatype:string" />
+	<infoitem key="UD_a" value="name:feedback_ID;datatype:int,name:Name;datatype:string,name:feedback;datatype:string" />
+</info>
